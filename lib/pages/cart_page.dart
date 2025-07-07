@@ -1,5 +1,3 @@
-import 'package:ecommerce_front/components/my_cart_items.dart';
-import 'package:ecommerce_front/components/my_drawer.dart';
 import 'package:ecommerce_front/models/products.dart';
 import 'package:ecommerce_front/models/shop.dart';
 import 'package:flutter/material.dart';
